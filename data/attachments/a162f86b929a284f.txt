@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<main>
+<license host="172.17.89.150" port="5555"/>
+</main>
+
+переименовал в HRS7
+Новые данные для settings_new.xml<?xml version="1.0" encoding="utf-8"?>
+<main>
+<license host="172.17.89.150" port="5555"/>
+</main>
+
